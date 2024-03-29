@@ -31,6 +31,9 @@ Tensorflow
 
 Keras
 
+## Photo credits
+
+ We thank the individuals and institutions who gave permission to use the images appearing in this repository. Photo credits: Sea Mammal Research Unit, University of St Andrews (all bottlenose dolphin and harbour seal images), Happywhale.org (all humpback whale images), ToadNUTS (all western leopard toad images).
 
 
 
